@@ -1,0 +1,7 @@
+[package]
+name = "benches"
+version = "0.1.0"
+authors = ["AtsukiTak <takatomgoo@gmail.com>"]
+
+[dev-dependencies]
+futures = "0.1"
